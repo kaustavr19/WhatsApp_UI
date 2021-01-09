@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return new MaterialApp(
       title: "WhatsApp",
       theme: new ThemeData(
-          primaryColor: new Color(0xff3a32b2),
+          primaryColor: new Color(0xff000000),
           accentColor: new Color(0xff25D366)),
       home: new WhatsAppHome(),
     );
