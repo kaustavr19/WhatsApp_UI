@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
           primaryColor: new Color(0xff000000),
           accentColor: new Color(0xff25D366)),
       home: new WhatsAppHome(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
